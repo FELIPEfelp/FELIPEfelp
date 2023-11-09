@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **felpsmota746@gmail.com**
 
-- ⚡ Fun fact **I am very patient and I like to do things in my own time.**
+- ⚡ Fun fact **I seek to learn new things and research in depth about it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
