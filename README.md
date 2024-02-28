@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">I am a systems analysis and development student</h3>
+<h3 align="center">Front-End Developer </h3>
 
 - 🌱 I’m currently learning **Phyton**
 
@@ -15,4 +15,4 @@ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuld
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html e css" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html" width="40" height="40"/> </a> </p>
