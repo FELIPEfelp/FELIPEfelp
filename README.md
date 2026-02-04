@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">Python Developer </h3>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I am python developer
 
 - 📫 How to reach me **felpsmota746@gmail.com**
 
